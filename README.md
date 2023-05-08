@@ -1,10 +1,7 @@
-# Odd_Even_Sort
-basic odd even sort with mpi.h
-
-# Hackmd
+# Odd Even Sort  
+這是一個basic的odd even sort實作紀錄，使用mpi.h以及在twcc的台灣杉三號上操作
 My hackmd: [link](https://hackmd.io/wCMZWHslRuOkZQ6WzBgygA?view)
 
-# Odd Even Sort Report
 ## 一、Information
 110590032 林展毅 death28097402@gmail.com
 
