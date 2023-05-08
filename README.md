@@ -2,7 +2,7 @@
 basic odd even sort with mpi.h
 
 # Hackmd
-My hackmd:[link]https://hackmd.io/wCMZWHslRuOkZQ6WzBgygA?view
+My hackmd: [link](https://hackmd.io/wCMZWHslRuOkZQ6WzBgygA?view)
 
 # Odd Even Sort Report
 ## 一、Information
